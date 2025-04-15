@@ -4,7 +4,7 @@ Welcome to my User Page! I'm a programmer who enjoys solving real-world problems
 
 ---
 
-[Jump to my contact section ➡️](#📬-contact-me)
+[Jump to my contact section ➡️](#contact-me)
 
 ## 🔧 Skills & Interests
 
@@ -24,7 +24,7 @@ Welcome to my User Page! I'm a programmer who enjoys solving real-world problems
 
  Here is my LinkedIn: https://www.linkedin.com/in/aditya-dutt-/ 
 
-## 📬 Contact Me
+## Contact Me
 
 Feel free to reach out via LinkedIn or email!
 
